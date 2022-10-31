@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2300&pause=100000&color=ACACAC&background=FFFFFF00&multiline=true&width=500&lines=Hi+there%2C+I'm+Vinicius!)](https://git.io/typing-svg)
+
+![Alt Text](https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif)
 
 <!--
 **vinevv/vinevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
